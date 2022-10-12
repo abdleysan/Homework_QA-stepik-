@@ -1,1 +1,1 @@
-# Homework_QA-stepik-
+# QA-stepik
